@@ -1,5 +1,4 @@
 import React from "react";
-import "./index.css";
 import { Home } from "./pages";
 import MainRouter from "./Router";
 
